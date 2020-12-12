@@ -27,3 +27,11 @@ p.copyright {
     color: gray;
     text-align: right;
 }
+
+.video {
+    margin-top: 50px;
+}
+
+.image {
+    margin-top: 30px;
+}
